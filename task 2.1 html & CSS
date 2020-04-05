@@ -363,3 +363,177 @@
 
   </body>
 </html>
+
+
+CSS
+/* Index*/
+body {
+  position: relative;
+}
+nav a:active {
+   color: fff;
+}
+
+
+  h1 {
+  	color: blue;
+  	font-family: 
+  }
+
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+  .progress { 
+      background:  #ccebff;
+      width: 200;
+      margin: 0 auto; 
+      
+ }
+
+ a {
+ 	color: #80ffff;
+ }
+
+
+
+ .form-control {
+  width: 60%
+ }
+
+/* contact page */
+.contact {
+  background-image: url("../img/mix.jpeg");
+  background-size: cover;
+}
+
+.navbar-brand {
+ text-transform: uppercase; 
+}
+
+a.navbar-brand { 
+  color: steelblue !important;
+   }
+
+/*.navbar {
+      position: fixed;
+      width: 100% !important;
+      top: 0;
+      left: 0;
+      background-color: #666699;
+      z-index: 1;
+    } */
+    
+nav a {
+      transition: color 800ms;
+      -webkit-transition: color 800ms;
+      color: #0acff7;
+    }
+
+nav a:hover {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .container p {
+      font-size: 22px;
+      color: black;
+    }
+
+    span {
+      color: skyblue;
+    }
+    
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    
+input[type="submit"] {
+      background: red;
+      color: white;
+ }
+
+li {
+  color: #0066FF
+;
+}
+
+
+/* Faq*/
+.faq {
+  background-image: url("../img/city2.jpg");
+  background-size: cover;
+}
+    
+.card-header { 
+    background: #5d37a8;
+     }
+
+.card-header button {
+ color: #ffffff; 
+}
+
+.card-body {
+ font-size: 18px;
+}
+
+/*about*/
+.header h1 {
+  text-align: left;
+}
+
+.column {
+  display: inline-block;
+  float: left;
+  width: 33.33333333333333%;
+}
+
+.main-text {
+  padding-top:   60px;
+  clear: both;
+}
+
+.image img {
+  width: 100%;
+}
+
+#skill-list {
+  margin-left: 50px;
+}
+
+/*Typography*/
+
+h1, h2, h3 {
+  font-family: Verdana, Helvetica, Arial, San-serif;
+}
+
+p, li {
+  font-family: Georgia, Franklin Gothic Medium, Calibri, serif; 
+}
+
+.intro p {
+  font-family: Futura, Helvetica, Arial, sans-serif;
+  font-size: 3em;
+  font-weight: 100;
+  -webkit-margin-before: 1em;
+}
+
+.skills h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+.skills {
+  background-color: #5AD4C2;
+  color: #FFF;
+  padding: 30px ;
+}
+
+
+
